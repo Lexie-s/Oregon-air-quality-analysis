@@ -38,7 +38,7 @@ PM2.5, or particulate matter 2.5 micrometers or smaller in diameter, is a pollut
 
 This analysis examines 25 years of EPA air quality monitoring data across Oregon counties from 1999 to 2022. While the early 2000s had more total days exceeding the federal PM2.5 standard of 35 µg/m³, average daily PM2.5 concentrations peaked around 2020. This suggests that while unhealthy air days were more frequent in earlier years, recent years may be producing more intense pollution events, likely driven by larger and more severe wildfires.
 
-At the county level, Klamath County had the highest number of unhealthy days when normalized by monitoring station count, followed by Jackson and Lake counties in southern Oregon.
+At the county level, Klamath County averaged 6.4 unhealthy days per year, which was more than three times higher than the next most impacted counties. Southern Oregon counties consistently show the highest exposure risk, driven by geography, wildfire proximity, and winter temperature inversions.
 
 Seasonally, winter months produced more total days exceeding the federal standard than summer months when measured across the full 24-year period. This is largely driven by wood smoke inversions, cold air trapping residential wood smoke at ground level in valley communities like Eugene and Medford. While summer wildfire seasons produce more extreme single-day spikes, winter wood smoke affects valley counties more consistently year over year.
 
